@@ -1,4 +1,4 @@
-# Micro Frontend React
+# Micro Frontend - React.js, Vue.js
 
 A simple microfrontned application.
 Container, Marketing and Auth are built using React.js and Dashboad is built using Vue.js.
